@@ -1,14 +1,3 @@
-# By submitting this assignment, I agree to the following:
-#   "Aggies do not lie, cheat, or steal, or tolerate those who do."
-#   "I have not given or received any unauthorized aid on this assignment."
-#
-# Names:        Randy Song
-#               Victoria Tran
-#               Daniel Yu
-# Section:      522
-# Assignment:   Lab 13
-# Date:         Nov 27th 2024
-# module to get random cards
 import random
 
 
